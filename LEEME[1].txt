@@ -1,0 +1,25 @@
+MORDISANO - versión con cinco páginas
+
+ARCHIVOS:
+- index.html: inicio
+- productos.html: catálogo y detalles de las presentaciones
+- nosotros.html: información de la empresa
+- consultaespecialista.html: formulario de consulta y preguntas frecuentes
+- noticias.html: sección informativa
+- styles.css: estilos compartidos
+- script.js: navegación móvil, carrito y formularios
+
+INSTALACIÓN:
+1. Haz una copia de seguridad de tu carpeta original.
+2. Copia estos siete archivos a la carpeta Mordisano Web, junto al resto de recursos.
+3. Reemplaza index.html, styles.css y script.js cuando estés lista.
+4. Conserva los nombres exactos de los archivos.
+5. Abre index.html en tu navegador para probar el sitio.
+
+NOTAS:
+- Los enlaces del menú se abren en una pestaña nueva, como solicitaste.
+- El carrito se comparte entre las páginas del mismo navegador mediante localStorage.
+- Para usar el WhatsApp oficial, abre script.js y coloca tu número en WHATSAPP_NUMBER, con código de país y sin + ni espacios. Si queda vacío, WhatsApp permitirá elegir el contacto.
+- Las consultas no se envían a un veterinario automáticamente. El formulario solo prepara un mensaje de WhatsApp.
+- Los textos de noticias son contenidos informativos de demostración, no noticias actuales verificadas.
+- Los precios y pesos se conservaron de la página original.
